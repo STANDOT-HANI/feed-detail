@@ -252,7 +252,7 @@ img {
 .detail-paper {
   position: relative;
   z-index: 1;
-  overflow: hidden;
+  overflow: visible;
   background: var(--white);
   border-radius: 8px;
 }
