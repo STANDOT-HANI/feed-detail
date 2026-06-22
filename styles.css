@@ -403,7 +403,8 @@ img {
 }
 
 .detail-sidebar {
-  position: static;
+  position: sticky;
+  top: 110px;
   align-self: start;
   padding-top: 16px;
   border-top: 2px solid var(--green);
